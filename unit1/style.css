@@ -1,2 +1,9 @@
-h1 { color: navy;
-background-color: olive;}
+body {
+  color:#222;
+  font-family:helvetica, arial, sans-serif;
+  font-size:18px;
+}
+h1 { 
+  color: navy;
+  background-color: olive;
+}
