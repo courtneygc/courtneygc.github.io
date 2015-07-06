@@ -3,10 +3,12 @@ body{
 	font-family: tahoma, sans-serif;
 	font-size: 20px;
 	text-align: center;
+	font-family: 'Gudea', sans-serif;
 }
 h1{color:#6f7376;
 	background-color: #deeaf6;
 	font-weight: 900;
 	text-align: center;
+	font-family: 'Playfair Display SC', serif;
 }
 li.open {list-style: circle}
