@@ -8,6 +8,8 @@ body{
 }
 
 header{
+	color: #ffffff;
+	background-color: #000000;
 	font-weight: bold;
 	text-align: center;
 	font-family: 'Inconsolata', serif;
@@ -17,11 +19,13 @@ header{
 }
 
 nav{
-	color: #000000;
+	color: #ffffff;
+	background-color: #000000;
     font-size: 30px;
     float: center;
 }
 
 section#gallery{
-	width: 20px;
+	width: 90px;
+	display: block;
 }
