@@ -9,7 +9,7 @@ body{
 
 header{
 	color: #ffffff;
-	background-color: #000000;
+	background-color: #4f4d4d;
 	font-weight: bold;
 	text-align: center;
 	font-family: 'Inconsolata', serif;
@@ -19,8 +19,8 @@ header{
 }
 
 nav{
-	color: #ffffff;
-	background-color: #000000;
+	color: inherit;
+	background-color: #4f4d4d;
     font-size: 30px;
     float: center;
 }
@@ -30,5 +30,6 @@ section#gallery{
 }
 
 footer{
-	font-size: 40px;
+	font-size: 20px;
+	background-color: #4f4d4d;
 }
