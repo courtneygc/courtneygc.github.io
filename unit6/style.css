@@ -1,8 +1,27 @@
 /* .clearfix:after; */
 body{
 	color:#031204;
-	font-family: 'Inconsolata', sans-serif;
+	font-family: 'Inconsolata', serif;
 	font-size: 18px;
 	text-align: center;
 
+}
+
+header{
+	background-color: #f8f8f8;
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Inconsolata', serif;
+	padding:1em;
+	text-decoration: capitalize;
+}
+
+nav{
+	color: #000000;
+    font-size: 20px;
+    float: left;
+}
+
+section#gallery{
+	width: 40px;
 }
