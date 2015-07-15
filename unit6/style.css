@@ -19,7 +19,8 @@ header{
 }
 
 nav{
-	color: inherit;
+	color: #ffffff;
+	text-decoration: none;
 	background-color: #4f4d4d;
     font-size: 30px;
     float: center;
