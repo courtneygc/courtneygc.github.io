@@ -14,14 +14,15 @@ header{
 	font-family: 'Inconsolata', serif;
 	padding:1em;
 	text-decoration: capitalize;
+	font-size: 45px;
 }
 
 nav{
 	color: #000000;
-    font-size: 20px;
-    float: left;
+    font-size: 40px;
+    float: center;
 }
 
 section#gallery{
-	width: 40px;
+	width: 20px;
 }
