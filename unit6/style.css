@@ -2,7 +2,7 @@
 body{
 	color:#031204;
 	font-family: 'Inconsolata', serif;
-	font-size: 10px;
+	font-size: 20px;
 	text-align: center;
 
 }
@@ -15,15 +15,15 @@ header{
 	font-family: 'Inconsolata', serif;
 	padding:1em;
 	text-decoration: capitalize;
-	font-size: 40px;
+	font-size: 45px;
 }
 
 nav{
 	color: #ffffff;
 	text-decoration: none;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	background-color: #4f4d4d;
-    font-size: 25px;
+    font-size: 40px;
     float: center;
     padding: 10px;
 }
