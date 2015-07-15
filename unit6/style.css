@@ -23,6 +23,7 @@ nav{
 	background-color: #4f4d4d;
     font-size: 30px;
     float: center;
+    padding: 10px;
 }
 
 section#gallery{
@@ -31,5 +32,6 @@ section#gallery{
 
 footer{
 	font-size: 20px;
+	color: #ffffff;
 	background-color: #4f4d4d;
 }
