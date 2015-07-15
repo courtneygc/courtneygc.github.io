@@ -2,7 +2,7 @@
 body{
 	color:#031204;
 	font-family: 'Inconsolata', serif;
-	font-size: 12px;
+	font-size: 10px;
 	text-align: center;
 
 }
@@ -21,8 +21,9 @@ header{
 nav{
 	color: #ffffff;
 	text-decoration: none;
+	text-transform: uppercase;
 	background-color: #4f4d4d;
-    font-size: 30px;
+    font-size: 25px;
     float: center;
     padding: 10px;
 }
