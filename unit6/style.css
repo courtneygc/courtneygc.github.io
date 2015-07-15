@@ -2,24 +2,23 @@
 body{
 	color:#031204;
 	font-family: 'Inconsolata', serif;
-	font-size: 18px;
+	font-size: 12px;
 	text-align: center;
 
 }
 
 header{
-	background-color: #f8f8f8;
 	font-weight: bold;
 	text-align: center;
 	font-family: 'Inconsolata', serif;
 	padding:1em;
 	text-decoration: capitalize;
-	font-size: 45px;
+	font-size: 40px;
 }
 
 nav{
 	color: #000000;
-    font-size: 40px;
+    font-size: 30px;
     float: center;
 }
 
