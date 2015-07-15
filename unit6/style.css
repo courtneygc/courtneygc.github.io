@@ -26,6 +26,9 @@ nav{
 }
 
 section#gallery{
-	width: 90px;
 	display: block;
+}
+
+footer{
+	font-size: 40px;
 }
