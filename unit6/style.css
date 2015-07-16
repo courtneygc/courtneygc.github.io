@@ -18,22 +18,23 @@ header{
 	font-size: 45px;
 }
 
-nav{
+nav a {
 	color: #ffffff;
 	text-decoration: none;
 	text-transform: lowercase;
 	background-color: #4f4d4d;
     font-size: 40px;
-    float: center;
+    text-align: center;
     padding: 10px;
 }
 
 section#gallery{
 	display: block;
+	width: 30%;
 }
 
 footer{
-	font-size: 20px;
+	font-size: 30px;
 	color: #ffffff;
 	background-color: #4f4d4d;
 }
