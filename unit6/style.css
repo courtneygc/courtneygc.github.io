@@ -12,7 +12,7 @@ header{
 	background-color: #4f4d4d;
 	font-weight: bold;
 	text-align: center;
-	font-family: 'Inconsolata', serif;
+	font-family: 'Georgia', serif;
 	padding:1em;
 	text-decoration: capitalize;
 	font-size: 45px;
@@ -25,11 +25,11 @@ nav a {
 	background-color: #4f4d4d;
     font-size: 40px;
     text-align: center;
-    padding: 10px;
+
 }
 
-section#gallery{
-	display: block;
+#gallery img{
+	
 	width: 30%;
 }
 
