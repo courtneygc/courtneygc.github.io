@@ -10,7 +10,7 @@ header{
 	color: #525252;
 	font-size: 45px;
 	font-weight: 900;
-	text-align: center;
+	text-align: left;
 	font-family: 'Playfair Display SC', serif;
 	padding:1em;
 }
@@ -21,7 +21,7 @@ nav a{
 	text-transform: lowercase;
 	background-color: #ffffff;
     font-size: 25px;
-    text-align: center;
+    float: right;
     margin: 20px;
 }
 
