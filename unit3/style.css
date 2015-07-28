@@ -31,10 +31,18 @@ section#splash {
 	background-size:cover;
 	height:95vh;
 }
+
+section#splash2 {
+	background-image:url(images/barn.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:95vh;
 ul {
-	margin-left: 1em;
+	margin-left: 1.25em;
+	float: left;
 }
 li.open {list-style: circle}
+}
 
 section#footer {
 	color: #525252;
