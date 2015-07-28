@@ -1,12 +1,13 @@
 * { margin:0;padding:0;box-sizing:border-box; }
 body{
-	color:#ffffff;
+	color:#525252;
 	font-size: 30px;
 	font-family: 'Gudea', sans-serif;
 	text-align: center;
 }
 header{
 	background-color: #deeaf6;
+	color: #ffffff;
 	font-size: 45px;
 	font-weight: 900;
 	text-align: center;
@@ -36,6 +37,7 @@ ul {
 li.open {list-style: circle}
 
 section#footer {
+	color: #525252;
 	background-color: #deeaf6;
 	font-size: 20px;
 	font-weight: 900;
