@@ -3,6 +3,7 @@ body{
 	color:#6f7376;
 	font-size: 20px;
 	font-family: 'Gudea', sans-serif;
+	text-align: center;
 }
 header{
 	background-color: #deeaf6;
@@ -11,6 +12,17 @@ header{
 	font-family: 'Playfair Display SC', serif;
 	padding:1em;
 }
+
+nav a{
+	color: #6f7376;
+	text-decoration: none;
+	text-transform: lowercase;
+	background-color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+}
+
 section#splash {
 	background-image:url(images/juiceshot.png);
 	background-repeat:no-repeat;
