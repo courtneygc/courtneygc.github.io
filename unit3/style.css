@@ -48,7 +48,10 @@ ul {
 	margin-left: 1.25em;
 	float: right;
 }
-li.open {list-style: circle}
+li.open {list-style: circle;
+	color: #525252;
+	float: right;
+}
 }
 
 section#footer {
