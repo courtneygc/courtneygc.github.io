@@ -3,9 +3,8 @@ body{
 	color:#ffffff;
 	font-size: 20px;
 	font-family: 'Gudea', sans-serif;
-	text-align: left;
-	padding: 1em;
 }
+
 header{
 	background-color: #deeaf6;
 	color: #525252;
@@ -35,6 +34,8 @@ section#splash {
 	background-repeat:no-repeat;
 	background-size:cover;
 	height:95vh;
+	text-align: left;
+	padding: 1em;
 }
 
 section#splash2 {
