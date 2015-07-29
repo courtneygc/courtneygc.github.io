@@ -59,5 +59,6 @@ section#footer {
 	text-align: center;
 	font-family: 'Playfair Display SC', serif;
 	padding: 4em;
+	clear: both;
 
 }
