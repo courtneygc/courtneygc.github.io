@@ -41,6 +41,7 @@ section#splash2 {
 	background-repeat:no-repeat;
 	background-size: inherit;
 	height:65vh;
+	float: left;
 
 ul {
 	color: #525252;
