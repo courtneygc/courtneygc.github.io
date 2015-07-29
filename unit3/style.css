@@ -33,7 +33,7 @@ section#splash {
 	background-image:url(images/juiceshot.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-	height:95vh;
+	height:75vh;
 }
 
 section#splash2 {
@@ -41,10 +41,11 @@ section#splash2 {
 	background-repeat:no-repeat;
 	background-size: inherit;
 	height:65vh;
+
 ul {
 	color: #525252;
 	margin-left: 1.25em;
-	float: left;
+	float: right;
 }
 li.open {list-style: circle}
 }
