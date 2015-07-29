@@ -16,13 +16,16 @@ header{
 }
 
 nav {
+	float: right;
+}
+
+nav a {
 	color: #6f7376;
 	text-decoration: none;
 	text-transform: lowercase;
 	background-color: #ffffff;
     font-size: 25px;
-    float: right;
-    margin: 20px;
+	margin: 20px;
 }
 
 section#splash {
