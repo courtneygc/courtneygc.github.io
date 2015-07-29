@@ -12,8 +12,8 @@ header{
 	font-weight: 900;
 	text-align: left;
 	font-family: 'Playfair Display SC', serif;
-	padding:1em;
-	float: left;
+	padding: 1.5em;
+	
 }
 
 nav {
@@ -37,7 +37,7 @@ section#splash {
 }
 
 section#splash2 {
-	background-image:url(images/barn.jpg);
+	background-image:url(images/green-lettuce-field.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
 	height:65vh;
