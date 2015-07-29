@@ -1,7 +1,7 @@
 * { margin:0;padding:0;box-sizing:border-box; }
 body{
 	color:#ffffff;
-	font-size: 20px;
+	font-size: 25px;
 	font-family: 'Gudea', sans-serif;
 }
 
@@ -35,7 +35,7 @@ section#splash {
 	background-size:cover;
 	height:95vh;
 	text-align: left;
-	padding: 1em;
+	padding: 30em;
 	padding-right: 50em;
 }
 
