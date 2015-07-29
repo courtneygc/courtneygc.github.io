@@ -15,7 +15,7 @@ header{
 	padding:1em;
 }
 
-nav a{
+nav {
 	color: #6f7376;
 	text-decoration: none;
 	text-transform: lowercase;
