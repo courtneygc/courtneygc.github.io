@@ -23,9 +23,9 @@ nav a {
 	color: #6f7376;
 	text-decoration: none;
 	text-transform: lowercase;
-	background-color: #ffffff;
-    font-size: 25px;
-	margin: 20px;
+	background-color: #deeaf6;
+    font-size: 20px;
+	margin: 10px;
 }
 
 section#splash {
@@ -39,7 +39,7 @@ section#splash2 {
 	background-image:url(images/barn.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
-	height:95vh;
+	height:65vh;
 ul {
 	margin-left: 1.25em;
 	float: left;
