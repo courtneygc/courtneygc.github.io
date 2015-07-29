@@ -1,6 +1,6 @@
 * { margin:0;padding:0;box-sizing:border-box; }
 body{
-	color:#525252;
+	color:#ffffff;
 	font-size: 30px;
 	font-family: 'Gudea', sans-serif;
 	text-align: center;
@@ -13,6 +13,7 @@ header{
 	text-align: left;
 	font-family: 'Playfair Display SC', serif;
 	padding:1em;
+	float: left;
 }
 
 nav {
@@ -41,6 +42,7 @@ section#splash2 {
 	background-size:cover;
 	height:65vh;
 ul {
+	color: #525252;
 	margin-left: 1.25em;
 	float: left;
 }
