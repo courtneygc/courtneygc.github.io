@@ -2,7 +2,7 @@
 body{
 	color:#ffffff;
 	font-size: 20px;
-	font-family: 'Gudea', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 }
 
 header{
@@ -33,7 +33,7 @@ section#splash {
 	background-image:url(images/juiceshot.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-	height:95vh;
+	height: 95vh;
 	text-align: left;
 	padding: 5em;
 	padding-right: 50em;
@@ -45,16 +45,19 @@ section#splash2 {
 	background-size: inherit;
 	height:65vh;
 	float: left;
+	font-size: 40px;
+}
 
 ul {
 	color: #525252;
-	margin-left: 1.25em;
+	margin-left: 5em;
 	float: right;
 	clear: right;
 }
+
 li.open {list-style: circle;
 }
-}
+
 
 section#footer {
 	color: #525252;
@@ -65,5 +68,27 @@ section#footer {
 	font-family: 'Playfair Display SC', serif;
 	padding: 4em;
 	clear: both;
+}
+
+@media (max-width: 800px) {
+	nav{
+		float: none;
+	}
+
+	body {
+		font-size: 1em
+	}
 
 }
+
+@media only screen and (max-width: 320 px) {
+	header, nav {
+		text-align: center;
+		display: block;
+	}
+
+	body{ font-size: 1em;
+	}
+	
+}
+
