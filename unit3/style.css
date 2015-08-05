@@ -5,7 +5,7 @@ body{
 	font-family: 'Source Sans Pro', sans-serif;
 }
 
-header{
+p.logo{
 	background-color: #deeaf6;
 	color: #525252;
 	font-size: 45px;
@@ -21,12 +21,13 @@ nav {
 }
 
 nav a {
-	color: #6f7376;
+	color: #ffffff;
 	text-decoration: none;
 	text-transform: lowercase;
-	background-color: #deeaf6;
-    font-size: 20px;
+	background-color: auto;
+    font-size: 25px;
 	margin: 10px;
+	padding: .5em;
 }
 
 section#splash {
@@ -67,6 +68,10 @@ section#footer {
 	text-align: center;
 	font-family: 'Playfair Display SC', serif;
 	padding: 4em;
+	clear: both;
+}
+
+.clearfix:after {
 	clear: both;
 }
 
