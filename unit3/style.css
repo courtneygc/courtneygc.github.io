@@ -60,7 +60,7 @@ li.open {list-style: circle;
 }
 
 
-section#footer {
+footer {
 	color: #525252;
 	background-color: #deeaf6;
 	font-size: 20px;
@@ -71,11 +71,9 @@ section#footer {
 	clear: both;
 }
 
-.clearfix:after {
-	clear: both;
-}
 
-@media (max-width: 800px) {
+
+@media only screen and (max-width: 800px) {
 	nav{
 		float: none;
 	}
@@ -84,9 +82,15 @@ section#footer {
 		font-size: 1em
 	}
 
+	#splash2 {
+		float: none;
+	}
+
+
+
 }
 
-@media only screen and (max-width: 320 px) {
+@media only screen and (max-width: 320px) {
 	header, nav {
 		text-align: center;
 		display: block;
