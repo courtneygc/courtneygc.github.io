@@ -1,0 +1,41 @@
+/* .clearfix:after; */
+body{
+	color:#4f4d4d;
+	font-family: 'Inconsolata', serif;
+	font-size: 10px;
+	text-align: center;
+
+}
+
+header{
+	color: #ffffff;
+	background-color: #4f4d4d;
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Inconsolata', serif;
+	padding: 1em;
+	text-decoration: capitalize;
+	font-size: 45px;
+}
+
+nav a {
+	color: #4f4d4d;
+	text-decoration: none;
+	text-transform: lowercase;
+	background-color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+    margin: 20px;
+
+}
+
+#gallery img{
+	
+	width: 30%;
+}
+
+footer{
+	font-size: 25px;
+	color: #ffffff;
+	background-color: #4f4d4d;
+}
